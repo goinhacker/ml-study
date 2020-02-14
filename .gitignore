@@ -130,3 +130,7 @@ dmypy.json
 
 .idea
 .DS_Store
+
+modu-pytorch/01_dnn_pt/
+modu-pytorch/02_cnn_pt/
+modu-pytorch/03_rnn_pt/
